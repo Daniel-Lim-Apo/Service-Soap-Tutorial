@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.5.002.0
+VisualStudioVersion = 17.8.34330.188
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsumeSoapService", "ConsumeSoapService.csproj", "{F429D368-5E7B-4855-B5CF-AFBE466FFF1F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsumeSoapService", "ConsumeSoapService.csproj", "{28F74DD4-720B-4ED6-9354-D43C65EDBF43}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{F429D368-5E7B-4855-B5CF-AFBE466FFF1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F429D368-5E7B-4855-B5CF-AFBE466FFF1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F429D368-5E7B-4855-B5CF-AFBE466FFF1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F429D368-5E7B-4855-B5CF-AFBE466FFF1F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28F74DD4-720B-4ED6-9354-D43C65EDBF43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28F74DD4-720B-4ED6-9354-D43C65EDBF43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28F74DD4-720B-4ED6-9354-D43C65EDBF43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28F74DD4-720B-4ED6-9354-D43C65EDBF43}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {1CF34952-5483-44BD-97F3-C4321A2B9BA0}
+		SolutionGuid = {EB9520E1-B0F0-4192-901A-294BCB0F0741}
 	EndGlobalSection
 EndGlobal

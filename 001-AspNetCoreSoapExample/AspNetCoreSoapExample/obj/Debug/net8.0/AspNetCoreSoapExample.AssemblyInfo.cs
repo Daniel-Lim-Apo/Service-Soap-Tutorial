@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AspNetCoreSoapExample")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+656206bc23f648d7b9f0437c1dd14a175be1c9fd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5b2f8dceb25dddfa1b0e420332f6c959376ceacf")]
 [assembly: System.Reflection.AssemblyProductAttribute("AspNetCoreSoapExample")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AspNetCoreSoapExample")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,11 +1,15 @@
 {
   "ExtendedData": {
-    "inputs": ["http://localhost:5222/Service.asmx"],
+    "inputs": [
+      "https://localhost:7075/Service.asmx"
+    ],
     "collectionTypes": [
       "System.Array",
       "System.Collections.Generic.Dictionary`2"
     ],
-    "namespaceMappings": ["*, ServiceReference1"],
+    "namespaceMappings": [
+      "*, ServiceReference1"
+    ],
     "targetFramework": "net6.0",
     "typeReuseMode": "All"
   }

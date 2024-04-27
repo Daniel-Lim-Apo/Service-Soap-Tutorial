@@ -22,7 +22,7 @@ namespace ConsumeSoapService.Controllers
             {
                 Body = new SumRequestBody()
                 {
-                    num1 = 1287,
+                    num1 = 8287,
                     num2 = 3
                 }
             });

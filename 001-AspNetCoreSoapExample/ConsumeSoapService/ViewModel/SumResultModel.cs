@@ -2,6 +2,6 @@
 {
     public class SumResultModel
     {
-        public string? SumResult { get; set; }
+        public string SumResult { get; set; }
     }
 }

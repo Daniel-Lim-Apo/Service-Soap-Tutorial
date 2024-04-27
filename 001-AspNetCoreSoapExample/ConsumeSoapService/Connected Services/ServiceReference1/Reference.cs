@@ -198,7 +198,7 @@ namespace ServiceReference1
         {
             if ((endpointConfiguration == EndpointConfiguration.BasicHttpBinding_ISoapService_soap))
             {
-                return new System.ServiceModel.EndpointAddress("http://localhost:5222/Service.asmx");
+                return new System.ServiceModel.EndpointAddress("https://localhost:7075/Service.asmx");
             }
             throw new System.InvalidOperationException(string.Format("Could not find endpoint with name \'{0}\'.", endpointConfiguration));
         }
